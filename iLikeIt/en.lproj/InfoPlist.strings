@@ -1,0 +1,9 @@
+/* 
+  InfoPlist.strings
+  iLikeIt
+
+  Created by Carlos Cortés Sánchez on 08/01/2018.
+  Copyright © 2018 Razeware. All rights reserved.
+*/
+
+CFBundleDisplayName = "iLikeIt";
